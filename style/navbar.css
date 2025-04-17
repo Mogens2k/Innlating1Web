@@ -9,6 +9,7 @@
     top: 0;
     display: flex;
     background-color: #1C1C1C;
+    justify-content: center;
 }
 
 .navbar a{
@@ -20,6 +21,7 @@
     text-decoration: none;
     font-weight: 500;
     transition: all 0.3s ease;
+
 }
 
 .navbar a:hover{
